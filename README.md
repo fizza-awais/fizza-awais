@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Fizza, a passionate full-stack developer with 
 
 I'm always looking to connect with fellow developers and collaborate on exciting projects. Feel free to reach out:
 
-- Email: your-email@example.com
+- Email: fizaawais4@gmail.com
 - LinkedIn: [FizzaAwais](https://www.linkedin.com/in/fizza-awais-864437178/)
 
 Let's create amazing things together! May the code be with you. 🚀✨
