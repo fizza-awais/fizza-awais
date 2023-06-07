@@ -10,20 +10,12 @@ Welcome to my GitHub profile! I'm Fizza, a passionate full-stack developer with 
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white), ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
-## 🚀 Projects
-
-Check out some of my favorite projects:
-
-1. [Instagram Messages App](https://github.com/zeeshan-shafeek/Instagram-app): A fun Web App that leverages the Facebook Graph API to fetch all messages from an Instagram Account.
-
-2. [School Manager](https://github.com/zeeshan-shafeek/SchoolManager): A School Manager App that let's you manage courses, teachers, students and assign tasks.
-
 ## 💬 Let's Connect
 
 I'm always looking to connect with fellow developers and collaborate on exciting projects. Feel free to reach out:
 
 - Email: your-email@example.com
-- LinkedIn: [ZeeshanShafique](https://www.linkedin.com/in/zeeshanshafique/)
+- LinkedIn: [FizzaAwais](https://www.linkedin.com/in/fizza-awais-864437178/)
 
 Let's create amazing things together! May the code be with you. 🚀✨
 
